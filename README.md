@@ -36,19 +36,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timothegonin&show_icons=true&locale=en&layout=compact" alt="timothegonin" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=timothegonin&show_icons=true&locale=en" alt="timothegonin" height="150"/>
 </p>
-
 <br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=timothegonin&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=timothegonin&icon=5&color=12)](https://visitcount.itsvg.in)
-
-
-## 🌐 Connect with me:
+<h3>🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/timothegonin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="timothegonin"  width="80" height="80" /></a>
+  <a href="https://linkedin.com/in/timothegonin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="timothegonin"  width="40" height="40" /></a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
