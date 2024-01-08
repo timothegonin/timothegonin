@@ -1,4 +1,7 @@
 <h1 align="left">Hi 👋, I'm Timothé</h1>
+<h3 align="left">You can visit <a href="https://timothegonin.github.io/portfolio/" target="blank">My Portfolio</a> to see a part of my projects, and skills.</h3>
+<br/>
+
 <p align="left">💡 “Remember, with great power comes great responsibility.” — Ben Parker, Spider-Man</p>
 <br/>
 <br/>
