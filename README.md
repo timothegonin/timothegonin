@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm Timothé</h1>
+<h1 align="left">Hello 👋, my name is Timothé, front-end developer working mainly with React JS ⚛️</h1>
+Hello, my name is Timothé, front-end developer working mainly with React JS
 <h3 align="left">You can visit <a href="https://timothegonin.github.io/portfolio/" target="blank">My Portfolio</a> to see a part of my projects, and skills.</h3>
 <br/>
 
