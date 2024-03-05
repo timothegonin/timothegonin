@@ -13,15 +13,9 @@
 
 <h2 align="center">🛠 Tools:</h2>
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://inkscape.org/fr/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" alt="inkscape" width="40" height="40"/> </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg" alt="storybook" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/> </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,git,npm,postman,vscode,yarn" />
+  </a>
 </p>
 <br/>
 
@@ -34,7 +28,9 @@
 
 <h3>🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/timothegonin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="timothegonin"  width="40" height="40" /></a>
+  <a href="https://linkedin.com/in/timothegonin" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
