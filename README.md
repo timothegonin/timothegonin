@@ -6,7 +6,7 @@
 <h2 align="center">💻Tech Stack:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,jest,react,redux,sass,ts" />
+    <img src="https://skillicons.dev/icons?i=css,express,html,js,jest,react,redux,sass,ts" />
   </a>
 </p>
 <br/>
@@ -14,7 +14,7 @@
 <h2 align="center">🛠 Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,figma,git,npm,postman,vscode,yarn" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,git,mongodb,nodejs,npm,postman,vscode,yarn" />
   </a>
 </p>
 <br/>
