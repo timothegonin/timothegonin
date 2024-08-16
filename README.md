@@ -14,7 +14,7 @@
 <h2 align="center">🛠 Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,figma,git,mongodb,nodejs,npm,postman,vscode,yarn" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,git,mongodb,nodejs,npm,postman,tailwind,vscode,yarn" />
   </a>
 </p>
 <br/>
