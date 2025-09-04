@@ -1,6 +1,6 @@
 <!-- Banner / Introduction -->
 <h1 align="center">👋 Hi, I'm Timothé</h1>
-<h3 align="center">💻 Front-End Developer | React JS Enthusiast ⚛️</h3>
+<h3 align="center">💻 Front-End Developer | React JS ⚛️</h3>
 
 <p align="center">
   <a href="https://timothegonin.github.io/portfolio/" target="_blank">
@@ -36,9 +36,7 @@ Fort de projets professionnalisants réalisés avec **OpenClassrooms**, je trans
 
 ## 🧩 Core Technologies
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,jest,express" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,jest,express" />
 </p>
 <p align="center"><i>Main languages & frameworks I master</i></p>
 
@@ -59,7 +57,7 @@ Fort de projets professionnalisants réalisés avec **OpenClassrooms**, je trans
 ### 🔹 Design, Database & AI
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,mongodb,postman" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" height="40" alt="ChatGPT"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="50" height="50" alt="ChatGPT"/>
 </p>
 
 <p align="center"><i>Daily tools I rely on for building, testing, designing & exploring AI</i></p>
@@ -76,12 +74,28 @@ Fort de projets professionnalisants réalisés avec **OpenClassrooms**, je trans
 ---
 
 ## 🌐 Connect with me
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/timothegonin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
+  <a href="https://x.com/timothe_gonin" target="_blank">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.instagram.com/timothe_gonin/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61580325804177" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</div>
+
 <p align="center"><i>Let’s connect and collaborate on exciting projects</i></p>
+
+
+
+
+
+---
 
 <!-- Footer -->
 <p align="center">
