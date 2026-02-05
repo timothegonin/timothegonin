@@ -12,37 +12,52 @@
 
 ## 👨‍💻 About Me (EN)
 
-Software Developer graduate specialized in **JavaScript**, **React.js**, and modern web development.  
-I combine **creativity, rigor, and critical thinking** to build solid and innovative projects.  
+**Software Designer & Developer**
+Specialized in **JavaScript**, **React.js**, and modern web development.
 
-Currently, I am expanding my expertise by learning **prompt engineering and AI-assisted development**, as well as improving my skills in **Python**.  
-Thanks to these new AI-driven skills, I leverage intelligent tools to enhance my learning and productivity.  
+**Approach**
+Combining **creativity, precision, and critical thinking** to design robust and innovative projects.
+Continuously expanding knowledge and enjoying the process of creating solid projects, always open to new ideas to make them more relevant.
 
-With several professional projects completed through **OpenClassrooms**, I transform ideas into **concrete and sustainable digital solutions**.  
+**Skills & Exploration**
+🤖 Deepening **AI mastery through prompting**, a versatile skill that enhances most projects.
+🎮 Developing **2D games in GameMaker**, merging technical and creative exploration in a self-taught journey.
 
-🎯 **Goal:** mastering today’s code to build tomorrow’s technologies.  
+**Background**
+📚 Professional projects completed with **OpenClassrooms**, transforming ideas into **concrete and sustainable digital solutions**.
+
+**Goal**
+🎯 Exploring code and tools to create projects that reflect my identity — from 2D games to innovative experiences.
+🌊 Inspired by **California’s 90s-2000s vibe**: surf, skate, rock n’ roll, and biker culture.
 
 ---
 
 ## 👨‍💻 À propos de moi (FR)
 
-Développeur Concepteur Logiciel diplômé, spécialisé en **JavaScript**, **React.js** et le développement web moderne.  
-Je combine **créativité, rigueur et sens critique** pour concevoir des projets solides et innovants.  
+**Concepteur Développeur Logiciel**
+Spécialisé en **JavaScript**, **React.js** et développement web moderne.
 
-Actuellement, je développe mes compétences dans le **prompting et l’utilisation des IA**, tout en apprenant à mieux maîtriser **Python**.  
-Grâce à ces nouvelles compétences et à l’assistance de l’IA, j’améliore en continu ma capacité d’apprentissage et ma productivité.  
+**Approche**
+Alliant **créativité, rigueur et sens critique** pour concevoir des projets solides et innovants.
+Enrichissement continu des connaissances et plaisir à créer des projets aboutis, toujours ouvert aux idées pour les rendre plus pertinents.
 
-Fort de projets professionnalisants réalisés avec **OpenClassrooms**, je transforme les idées en **solutions digitales concrètes et durables**.  
+**Compétences & Exploration**
+🤖 Approfondissement de la **maîtrise de l’IA via le prompting**, une compétence transversale qui optimise la plupart des projets.
+🎮 Développement de **jeux 2D sur GameMaker**, fusionnant exploration technique et créative dans une démarche autodidacte.
 
-🎯 **Objectif :** maîtriser le code d’aujourd’hui pour bâtir les technologies de demain.  
+**Parcours**
+📚 Projets professionnalisants réalisés avec **OpenClassrooms**, transformant les idées en **solutions digitales concrètes et durables**.
+
+**Objectif**
+🎯 Explorer le code et les outils pour créer des projets à mon image — des jeux 2D aux expériences innovantes.
+
 
 ---
 
 ## 🧩 Core Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,express,jest" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio,js,ts,react,redux,html,css,sass,jest" />
 </p>
-<p align="center"><i>Main languages & frameworks I master</i></p>
 
 ---
 
@@ -58,29 +73,11 @@ Fort de projets professionnalisants réalisés avec **OpenClassrooms**, je trans
   <img src="https://skillicons.dev/icons?i=nodejs,npm,yarn,tailwind,bootstrap" />
 </p>
 
-### 🔹 Design, Database & AI
+### 🔹 Design & Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,mongodb,postman" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="50" height="50" alt="ChatGPT"/>
 </p>
 <p align="center"><i>Daily tools I rely on for building, testing, designing & exploring AI</i></p>
-
----
-
-## 🐍 Complementary Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-<p align="center"><i>Secondary language I use for scripting and automation</i></p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timothegonin&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=timothegonin&show_icons=true&locale=en&theme=tokyonight" height="150"/>
-</p>
-<p align="center"><i>Overview of my coding activity & favorite languages</i></p>
 
 ---
 
