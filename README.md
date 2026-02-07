@@ -28,7 +28,6 @@ Continuously expanding knowledge and enjoying the process of creating solid proj
 
 **Goal**
 🎯 Exploring code and tools to create projects that reflect my identity — from 2D games to innovative experiences.
-🌊 Inspired by **California’s 90s-2000s vibe**: surf, skate, rock n’ roll, and biker culture.
 
 ---
 
