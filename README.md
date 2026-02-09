@@ -76,7 +76,6 @@ Enrichissement continu des connaissances et plaisir à créer des projets abouti
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,mongodb,postman" />
 </p>
-<p align="center"><i>Daily tools I rely on for building, testing, designing & exploring AI</i></p>
 
 ---
 
@@ -101,7 +100,7 @@ Enrichissement continu des connaissances et plaisir à créer des projets abouti
 
 </p>
 
-<p align="center"><i>Let’s connect and collaborate on exciting projects</i></p>
+<p align="center"><i>Let’s connect</i></p>
 
 ---
 
