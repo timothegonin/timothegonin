@@ -55,7 +55,7 @@ Enrichissement continu des connaissances et plaisir à créer des projets abouti
 
 ## 🧩 Core Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio,js,ts,react,redux,html,css,sass,jest" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,redux,gamemakerstudio,html,css,sass,jest" />
 </p>
 
 ---
