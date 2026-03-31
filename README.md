@@ -1,6 +1,6 @@
 <!-- Banner / Introduction -->
 <h1 align="center">👋 Hi, I'm Timothé</h1>
-<h3 align="center">💻 Front-End Developer | React JS ⚛️</h3>
+<h3 align="center">💻 Front-End Developer | React JS - Next JS ⚛️</h3>
 
 <p align="center">
   <a href="https://timothegonin.github.io/portfolio/" target="_blank">
@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me (EN)
 
 **Software Designer & Developer**
-Specialized in **JavaScript**, **React.js**, and modern web development.
+Specialized in **JavaScript**, **React.js**, **Next.js**, and modern web development.
 
 **Approach**
 Combining **creativity, precision, and critical thinking** to design robust and innovative projects.
@@ -26,15 +26,13 @@ Continuously expanding knowledge and enjoying the process of creating solid proj
 **Background**
 📚 Professional projects completed with **OpenClassrooms**, transforming ideas into **concrete and sustainable digital solutions**.
 
-**Goal**
-🎯 Exploring code and tools to create projects that reflect my identity — from 2D games to innovative experiences.
 
 ---
 
 ## 👨‍💻 À propos de moi (FR)
 
 **Concepteur Développeur Logiciel**
-Spécialisé en **JavaScript**, **React.js** et développement web moderne.
+Spécialisé en **JavaScript**, **React.js**, **Next.js** et développement web moderne.
 
 **Approche**
 Alliant **créativité, rigueur et sens critique** pour concevoir des projets solides et innovants.
@@ -47,9 +45,6 @@ Enrichissement continu des connaissances et plaisir à créer des projets abouti
 **Parcours**
 📚 Projets professionnalisants réalisés avec **OpenClassrooms**, transformant les idées en **solutions digitales concrètes et durables**.
 
-**Objectif**
-🎯 Explorer le code et les outils pour créer des projets à mon image — des jeux 2D aux expériences innovantes.
-
 
 ---
 
@@ -60,21 +55,10 @@ Enrichissement continu des connaissances et plaisir à créer des projets abouti
 
 ---
 
-## ⚒️ Development Tools
+## ⚒️ Tools
 
-### 🔹 Code & Versioning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git" />
-</p>
-
-### 🔹 Environment & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,yarn,tailwind,bootstrap" />
-</p>
-
-### 🔹 Design & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,mongodb,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,tailwind,figma" />
 </p>
 
 ---
